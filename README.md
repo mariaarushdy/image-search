@@ -50,19 +50,8 @@ The following steps were taken to extract and combine features for image search:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/computer-vision-image-search.git
-   ```
-
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the image search script:
-   ```bash
-   python image_search.py
-   ```
-
+   git clone https://github.com/image_search/computer-vision-image-search.git
+   
 ## Conclusion
 
 This project explores a variety of image processing techniques and deep learning methods for image search using the DTD dataset. The combination of color, texture, interest points, and deep learning features provides a comprehensive approach to image feature extraction and search. Note that the limitations in the dataset size may impact the overall accuracy of the search results.
